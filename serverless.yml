@@ -9,9 +9,6 @@ provider:
   region: us-east-1
 
 functions:
-  authorizer:
-    handler: authorizer.handler
-
   createNote:
     handler: handler.createNote
     environment:
