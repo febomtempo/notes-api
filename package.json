@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/febomtempo/notes-api#readme",
   "dependencies": {
+    "aws-jwt-verify": "^4.0.0",
     "aws-sdk": "^2.1343.0"
   },
   "devDependencies": {
